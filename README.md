@@ -218,13 +218,13 @@ Modify the `app.json` file to include your database connection string, email sen
 }
 ```
 
-5. Build the project:
+6. Build the project:
 
 ```bash
 dotnet build
 ```
 
-6. Run the application:
+7. Run the application:
 
 ```bash
 dotnet run
