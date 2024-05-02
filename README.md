@@ -1,7 +1,8 @@
 ```markdown
-# FastFood Service
+# FastFood Order Service using .net 8 mvc,Dapper and Serialog
 
-This repository contains the source code for the FastFood service. It includes functionality for managing customer accounts, shopping carts, and orders in a fast food delivery system.
+This repository contains the source code for the FastFood service.
+It includes functionality for managing customer accounts, shopping carts, and orders in a fast food delivery system.
 
 ## Table of Contents
 - [Features](#features)
@@ -16,6 +17,12 @@ This repository contains the source code for the FastFood service. It includes f
 - Customer Account Management: Allows customers to view and update their profile information.
 - Shopping Cart Management: Enables customers to add items to their shopping carts, view the cart contents, and remove items.
 - Order Placement: Facilitates the process of placing orders securely.
+- Validation: Utilizes Data Annotations for input validation to ensure proper data integrity.
+- Configuration: Email sender credentials can be configured via the appsettings.json file.
+- Logging: Integrated Serialog functionality to capture errors and information.
+- Dependency Injection: Utilizes dependency injection to manage and inject services.
+- Dapper for Data Access: Utilizes Dapper for efficient data access.
+- SerialLog for Logging: Implements logging functionalities using SerialLog.
 
 ## Setup
 
