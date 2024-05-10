@@ -1,10 +1,8 @@
 ﻿using Dapper;
 using FastFood.Dto;
 using FastFood.Service.Interface;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
 using System.Data;
-
 namespace FastFood.Service
 {
     public class FoodService:IFoodService
