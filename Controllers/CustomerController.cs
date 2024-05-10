@@ -1,13 +1,7 @@
 using FastFood.Dto;
-using FastFood.Models;
-using FastFood.Service;
 using FastFood.Service.Interface;
-using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Serilog;
-using System.Reflection;
-using System.Security.Claims;
 
 namespace FastFood.Controllers
 {
