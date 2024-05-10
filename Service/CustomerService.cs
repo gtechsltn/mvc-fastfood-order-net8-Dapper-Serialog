@@ -1,15 +1,10 @@
-﻿using Azure;
 using Dapper;
-using FastFood.Controllers;
 using FastFood.Dto;
 using FastFood.Models;
 using FastFood.Service.Interface;
 using Microsoft.AspNetCore.Authentication;
-using Microsoft.AspNetCore.Mvc;
 using Microsoft.Data.SqlClient;
-using Serilog;
 using System.Data;
-using System.Reflection;
 using System.Security.Claims;
 
 namespace FastFood.Service
