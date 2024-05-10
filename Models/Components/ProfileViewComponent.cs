@@ -1,16 +1,5 @@
-﻿using Dapper;
-using FastFood.Dto;
-using FastFood.Service;
 using FastFood.Service.Interface;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Data.SqlClient;
-using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Reflection;
-using System.Security.Claims;
-using System.Threading.Tasks;
 
 namespace FastFood.Models.Components
 {
