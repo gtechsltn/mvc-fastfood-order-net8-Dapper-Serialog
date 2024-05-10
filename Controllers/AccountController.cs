@@ -3,7 +3,6 @@ using FastFood.Models;
 using FastFood.Service.Interface;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Mvc;
-using System.Security.Claims;
 
 namespace FastFood.Controllers
 {
