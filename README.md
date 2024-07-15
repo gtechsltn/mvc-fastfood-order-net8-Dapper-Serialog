@@ -6,7 +6,7 @@ It includes functionality for managing customer accounts, shopping carts, and
 orders in a fast food delivery system.
 
 ## Demo
-Visit this link for the Demo :http://fastfooddapper.runasp.net/
+Visit this link for the Demo :https://fastfooddapper.runasp.net/
 
 ## Table of Contents
 - [Features](#features)
