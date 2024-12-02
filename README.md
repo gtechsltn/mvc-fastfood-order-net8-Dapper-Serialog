@@ -1,3 +1,9 @@
+# Simple FastFood Order Using .NET 8, Dapper, Store Procedure, AES and Serilog
+
+https://github.com/gtechsltn/Sensitive-Data-Security
+
+https://github.com/gtechsltn/mvc-fastfood-order-net8-Dapper-Serialog
+
 ```markdown
 # FastFood Order Service using .net 8 mvc,Dapper and Serialog
 
